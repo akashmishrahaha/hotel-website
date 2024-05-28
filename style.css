@@ -75,7 +75,7 @@ p {
 }
 
 #showcase {
-  background: url(/img/2.jpg) no-repeat center center/cover  ;
+  background: url(./2.jpg) no-repeat center center/cover  ;
   /* background: no-repeat center center; */
   height: 600px;
 }
@@ -137,7 +137,7 @@ p {
 }
 
 .info-image {
-  background: url(/img/1.jpg) no-repeat center center/cover;
+  background: url(./1.jpg) no-repeat center center/cover;
   min-height: 100%;
   overflow: auto;
 }
@@ -221,7 +221,7 @@ p {
 
 #testimonials {
   height: 600px;
-  background: url(/img/3.jpg) no-repeat center center/cover;
+  background: url(./3.jpg) no-repeat center center/cover;
   padding-top:40px;
 }
 
